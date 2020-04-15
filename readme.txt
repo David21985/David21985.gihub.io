@@ -1,5 +1,5 @@
-Thanks for downloading this theme!
 
-Theme Name: Company
-Theme URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
-Author: BootstrapMade
+
+Theme Name: supportgroup
+Theme URL: https://supportgroup.com/
+Author: David Production
